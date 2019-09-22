@@ -68,7 +68,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.4.2
 isort==4.3.4
 jedi==0.13.2
-Jinja2==2.10
+Jinja2>=2.10.1
 jmespath==0.9.3
 jsonschema==2.6.0
 jupyter==1.0.0
@@ -92,7 +92,7 @@ nakamoto==0.1.2.2
 names==0.3.0
 nbconvert==5.4.0
 nbformat==4.4.0
-notebook==5.7.4
+notebook>=5.7.8
 numpy==1.15.0
 oauth2client==3.0.0
 packaging==19.2
@@ -136,7 +136,7 @@ python-geoip==1.2
 python-geoip-geolite2==2015.303
 python-json-logger==0.1.10
 pytz==2018.5
-PyYAML==3.13
+PyYAML>=4.2b1
 pyzmq==17.1.2
 qtconsole==4.4.3
 ratelim==0.1.6

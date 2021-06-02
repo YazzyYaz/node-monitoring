@@ -166,7 +166,7 @@ twine==1.12.1
 typed-ast==1.4.0
 typing==3.7.4.1
 update-checker==0.16
-urllib3==1.25.5
+urllib3==1.26.5
 urwid==2.0.1
 virtualenv==16.0.0
 vulture==0.29

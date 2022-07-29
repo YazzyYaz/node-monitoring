@@ -85,7 +85,7 @@ lxml==4.3.0
 MarkupSafe==1.1.0
 maxminddb==1.4.1
 mccabe==0.6.1
-mistune==0.8.4
+mistune==2.0.3
 mock==2.0.0
 more-itertools==4.3.0
 nakamoto==0.1.2.2

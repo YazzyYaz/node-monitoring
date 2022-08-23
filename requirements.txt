@@ -90,7 +90,7 @@ mock==2.0.0
 more-itertools==4.3.0
 nakamoto==0.1.2.2
 names==0.3.0
-nbconvert==5.4.0
+nbconvert==6.5.1
 nbformat==4.4.0
 notebook>=5.7.8
 numpy==1.15.0

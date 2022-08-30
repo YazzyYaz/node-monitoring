@@ -36,7 +36,7 @@ docutils==0.14
 entrypoints==0.3
 escapism==1.0.0
 eth-abi==1.2.2
-eth-account==0.3.0
+eth-account==0.5.9
 eth-hash==0.2.0
 eth-keyfile==0.5.1
 eth-keys==0.2.0b3
